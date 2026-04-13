@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone git@github.com:27axel/django-greeting.git
-cd DjangoProject
+cd django-greeting
 ```
 
 2. Создайте и активируйте виртуальное окружение:
